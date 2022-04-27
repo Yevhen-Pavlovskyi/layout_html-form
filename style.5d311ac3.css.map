@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAEA,OACE,kBAAmB,CACnB,gBACF,CAEA,YACE,kBACF,CAEA,aACE,oBACF","file":"style.5d311ac3.css","sourceRoot":"../src","sourcesContent":["/* styles go here */\n\n.field {\n  margin-bottom: 20px;\n  padding-bottom: 0;\n}\n\n.form_field {\n  margin-bottom: 10px;\n}\n\n.input_field {\n  display: inline-block;\n}\n"]}
